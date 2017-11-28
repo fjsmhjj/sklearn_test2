@@ -10,7 +10,7 @@ print(sess.run(a+b))
 
 
 
-
+a=3
 
 
 
